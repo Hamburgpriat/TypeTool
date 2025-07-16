@@ -19,12 +19,12 @@ Englisch
 Typetool is a small program that takes the last text from the clip file and types it in instead of copying it. Practical for typing passwords or data in Teamviewer or web forms, for example, if CTRL+V does not work
 Features
 
-Writes the last text with Ctrl + B
-Ctrl + alt + B can be used to set whether Enter should be pressed automatically after typing
-The key combination can be changed
-The text is displayed as a preview at the top left
-The input can be aborted with ESC
-Warning for more than 50 characters
-The tool runs in the tray in the background
+- Writes the last text with Ctrl + B
+- Ctrl + alt + B can be used to set whether Enter should be pressed automatically after typing
+- The key combination can be changed
+- The text is displayed as a preview at the top left
+- The input can be aborted with ESC
+- Warning for more than 50 characters
+- The tool runs in the tray in the background
 
 only in german at the moment
