@@ -1,4 +1,4 @@
-# Copyright Mario Wilhelm
+
 import sys
 import os
 import ctypes
