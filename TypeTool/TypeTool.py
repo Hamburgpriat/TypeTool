@@ -194,8 +194,8 @@ def type_second_clipboard_entry():
         typing_thread = threading.Thread(target=type_text, args=(text,))
         typing_thread.start()
 
-# Hotkey für Strg + Leertaste (ctrl+space)
-keyboard.add_hotkey('ctrl+space', type_second_clipboard_entry)
+# Hotkey für Strg + Leertaste (ctrl+space) (Test-Funktion)
+# keyboard.add_hotkey('ctrl+space', type_second_clipboard_entry)
 
 # Funktion zur Überwachung der Zwischenablage (angepasst)
 def monitor_clipboard():
