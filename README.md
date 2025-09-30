@@ -7,6 +7,7 @@ Features
 -	Schreibt den letzten Text mit Strg + B 
 -	Mit Strg + alt + B kann eingestellt werden, ob nach dem eingeben automatisch Enter gedrückt werden soll
 -	Ändern der Tastenkombination möglich
+-	Änderung der GEschwindigkeit des eintippen möglich
 -	Der Text wird oben Links als Vorschau angezeigt
 -	Die Eingabe kann mit ESC abgebrochen werden
 -	Warnung bei mehr als 50 Zeichen
@@ -22,6 +23,7 @@ Features
 - Writes the last text with Ctrl + B
 - Ctrl + alt + B can be used to set whether Enter should be pressed automatically after typing
 - The key combination can be changed
+- Change in typing speed possible
 - The text is displayed as a preview at the top left
 - The input can be aborted with ESC
 - Warning for more than 50 characters
