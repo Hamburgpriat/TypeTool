@@ -1,3 +1,10 @@
+
+ARCHIVE
+
+TypeTool 3 is comming in C# https://github.com/Hamburgpriat/TypeTool-Version-3
+
+------------------------------
+
 TypeTool
 
 Typetool ist ein kleines Programm, welches den letzten Text aus der Clipablage nimmt und eintippt statt reinkopiert. Praktisch um z.B. im Teamviewer oder Webformularen Passwörter oder Daten eintippen zu lassen wenn STRG+V nicht funktioniert
